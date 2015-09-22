@@ -1,7 +1,6 @@
 /vendor/
 tmp/*
-.DS_STORE
-composer.lock
+.DS_STOREs
 propel/generated-conf/config.php
 /tmp/*
 
